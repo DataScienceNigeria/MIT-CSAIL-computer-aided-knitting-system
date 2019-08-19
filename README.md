@@ -9,5 +9,5 @@ Artificial Intelligence takes FASHION DESIGNING to next level with MIT CSAIL com
 With this, anyone, even novices, make their own clothes.
 ![](scalf.jpg)
 ![](DSL.jpg)
-![](Network Composition.jpg)
+![](NetworkComposition.jpg)
 Read more at https://arxiv.org/pdf/1904.05681.pdf
